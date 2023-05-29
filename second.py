@@ -1,0 +1,2 @@
+def restart():
+    return 'restart'
